@@ -1,0 +1,6 @@
+{
+    "username": "user@yourstore.com",
+    "password": "user",
+    "adminUrl": "https://admin-demo.nopcommerce.com/admin/",
+    "testName": "Widout update for json file userData"
+}

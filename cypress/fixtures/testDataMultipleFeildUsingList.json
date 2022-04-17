@@ -1,0 +1,36 @@
+{
+    "query": {
+        "name": "morpheus",
+        "job": "leader",
+        "create": "self"
+    },
+    "sp": [
+        {
+            "testName": "Testcase 1",
+            "filters": {
+                "name": "duke"
+            }
+        },
+        {
+            "testName": "Testcase 2",
+            "filters": {
+                "job": "ba",
+                "create": "Androni"
+            }
+        },
+        {
+            "testName": "Testcase 3",
+            "filters": {
+                "create": "Bucato"
+            }
+        },
+        {
+            "testName": "Testcase 4",
+            "filters": {
+                "name": "harvey",
+                "job": "dev",
+                "create": "explorer"
+            }
+        }
+    ]
+}

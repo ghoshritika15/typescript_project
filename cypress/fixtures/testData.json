@@ -1,0 +1,24 @@
+{
+    "query": {
+        "name": "morpheus",
+        "job": "leader"
+    },
+    "sp": [
+        {
+            "testName": "Testcase 1",
+            "name": "ronaldo"
+        },
+        {
+            "testName": "Testcase 2",
+            "name": "cristaio"
+        },
+        {
+            "testName": "Testcase 3",
+            "name": "juris"
+        },
+        {
+            "testName": "Testcase 4",
+            "name": "parker"
+        }
+    ]
+}
